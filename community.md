@@ -1,18 +1,19 @@
 --- 
 layout: default
-title: Community of Practice 
+title: Centre of Excellence
 ---
 
-<h2>AnalystX SQL community</h2>
+<h2>AnalystX Population Health Data and Analytics Centre of Excellence (PHDA CoE)</h2>
 <p>
-  The AnalystX SQL Community board will meet monthly. It will govern and provide a check and challenge function on project teams and will act as the parent group to any future sub-committees and technical advisory groups that form. 
+  The Centre of Excellence will upload new learning material from organisations weekly. This will ensure new learning material is available for our learners and community members. 
 </p>
 <h2>Current Members:</h2>
 <ul>
-  <li><b>Alex Cheung</b> - NHS England</li>
-  <li><b>Andrew Lavelle</b> - Wirral University Teaching Hospital NHS Foundation Trust</li>
+   <li><Victoria Cornelius</b> - NHS England</li>
   <li><b>Suki Panesar</b> - NHS England</li>
-  <li><b>Julia Wilkins</b> - The Health Economics Unit</li>
+  <li><b>Alex Cheung</b> - NHS England</li>
+  <li><b>Riddhi Aggarwal</b> - NHS England</li>
+  <li><b>Nacho</b> - NHS England</li>
   <li><b></b> </li>
   <li><b></b> </li>
 </ul>
