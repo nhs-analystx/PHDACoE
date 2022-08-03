@@ -9,7 +9,7 @@ title: Centre of Excellence
 </p>
 <h2>Current Members:</h2>
 <ul>
-   <li><Victoria Cornelius</b> - NHS England</li>
+   <li><b>Victoria Cornelius</b> - NHS England</li>
   <li><b>Suki Panesar</b> - NHS England</li>
   <li><b>Alex Cheung</b> - NHS England</li>
   <li><b>Riddhi Aggarwal</b> - NHS England</li>
