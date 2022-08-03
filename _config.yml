@@ -2,10 +2,10 @@
 # ------------------------------------------
 title:             AnalystX PHDA CoE
 email:             england.analystX@nhs.net
-author:            AnalystX SQL Community
+author:            AnalystX PHDA CoE
 description:       "Welcome to the AnalystX Population Health Data and Analytics Centre of Excellence"
 url:               "https://nhs-analystx.github.io/"
-baseurl:           "phdacoe/"
+baseurl:           "PHDACoE/"
 github_username:   nhs-analystx
 linkedin_username: 
 date_format:       "%b %-d, %Y"
