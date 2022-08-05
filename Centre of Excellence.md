@@ -14,8 +14,6 @@ title: Centre of Excellence
   <li><b>Alex Cheung</b> - NHS England</li>
   <li><b>Riddhi Aggarwal</b> - NHS England</li>
   <li><b>Nacho Allendesalazar</b> - MonstarLab</li>
-  <li><b></b> </li>
-  <li><b></b> </li>
 </ul>
 
 <div class="nhsuk-do-dont-list">
@@ -51,7 +49,7 @@ title: Centre of Excellence
 
 <h2>Communities of Practice</h2>
 
-We are keen to support new communities in use of SQL and the development of existing networks. Please get in touch if you would like support with your data science community of practice.
+We are keen to support new communities and the development of existing networks. Please get in touch if you would like support with your the development of the centre of excellence.
 – please email [england.analystX@nhs.net](mailto:england.analystx@nhs.net)
 
 
