@@ -18,12 +18,12 @@ A number of blogs have been created and available to read on the [AnalystX works
 <ul class="nhsuk-grid-row nhsuk-card-group">
     <li class="nhsuk-grid-column-one-half nhsuk-card-group__item">
         <div class="nhsuk-card nhsuk-card--clickable">
-            <img class="nhsuk-card__img" src="assets/img/links/slack-min.png" alt="AnalystX SQL Community Slack">
+            <img class="nhsuk-card__img" src="assets/img/links/youtube-min.png" alt="AnalystX Youtube">
             <div class="nhsuk-card__content">
                 <h2 class="nhsuk-card__heading nhsuk-heading-m">
-                    <a class="nhsuk-card__link" href="https://analystx-sql.slack.com/"> Slack channel</a>
+                    <a class="nhsuk-card__link" href="https://www.youtube.com/channel/UCg07r7_eTYQchw9n1RqZlNw">YouTube channel</a>
                 </h2>
-                <p>Join us on Slack to chat to the community or ask us your questions.</p>
+                <p>Subscribe to the AnalystX TV YouTube channel.</p>
             </div>
         </div>
     </li>
@@ -39,19 +39,7 @@ A number of blogs have been created and available to read on the [AnalystX works
         </div>
     </li>
 </ul>
-<ul class="nhsuk-grid-row nhsuk-card-group">
-    <li class="nhsuk-grid-column-one-half nhsuk-card-group__item">
-        <div class="nhsuk-card nhsuk-card--clickable">
-            <img class="nhsuk-card__img" src="assets/img/links/youtube-min.png" alt="AnalystX Youtube">
-            <div class="nhsuk-card__content">
-                <h2 class="nhsuk-card__heading nhsuk-heading-m">
-                    <a class="nhsuk-card__link" href="https://www.youtube.com/channel/UCg07r7_eTYQchw9n1RqZlNw">YouTube channel</a>
-                </h2>
-                <p>Subscribe to the AnalystX TV YouTube channel.</p>
-            </div>
-        </div>
-    </li>
-    </ul>
+
 <ul class="nhsuk-grid-row nhsuk-card-group">
     <li class="nhsuk-grid-column-one-half nhsuk-card-group__item">
         <div class="nhsuk-card nhsuk-card--clickable">
