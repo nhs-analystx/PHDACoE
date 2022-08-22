@@ -4,8 +4,6 @@ title: Centre of Excellence
 ---
 
 <h2>AnalystX Population Health Data and Analytics Centre of Excellence (PHDA CoE)</h2>
-<p>
-  The Centre of Excellence aim is to develop a population health data and analytics workforce, and its leaders, with the practical and innovative skills that enable effective decision-making to transform services for a more person-centred care.</p>
   <p> Our vision is to create a one-stop-shop (“soup to nuts” resource) for health and care professionals to develop their skills and expertise in population health data and analytics”.
 </p>
 <h2>Current Members:</h2>
