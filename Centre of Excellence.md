@@ -5,14 +5,15 @@ title: Centre of Excellence
 
 <h2>AnalystX Population Health Data and Analytics Centre of Excellence (PHDA CoE)</h2>
 <p>
-  The Centre of Excellence will upload new learning material from organisations weekly. This will ensure new learning material is available for our learners and community members. 
+  The Centre of Excellence aim is to develop a population health data and analytics workforce, and its leaders, with the practical and innovative skills that enable effective decision-making to transform services for a more person-centred care.</p>
+  <p> Our vision is to create a one-stop-shop (“soup to nuts” resource) for health and care professionals to develop their skills and expertise in population health data and analytics”.
 </p>
 <h2>Current Members:</h2>
 <ul>
    <li><b>Victoria Cornelius</b> - NHS England</li>
-  <li><b>Suki Panesar</b> - NHS England</li>
-  <li><b>Alex Cheung</b> - NHS England</li>
-  <li><b>Riddhi Aggarwal</b> - NHS England</li>
+   <li><b>Riddhi Aggarwal</b> - NHS England</li>
+   <li><b>Suki Panesar</b> - NHS England</li>
+   <li><b>Alex Cheung</b> - NHS England</li>
   <li><b>Nacho Allendesalazar</b> - MonstarLab</li>
 </ul>
 
@@ -22,27 +23,27 @@ title: Centre of Excellence
       <li>
           <svg class="nhsuk-icon nhsuk-icon__tick" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" aria-hidden="true">
 <path stroke-width="4" stroke-linecap="round" d="M18.4 7.8l-8.5 8.4L5.6 12"></path>
-</svg> Promote the use of SQL in the NHS by celebrating success and recognising contributions across the community
+        </svg> <b>Learner-Centred:</b> Develop a space that encourages active learning and participation by the users, focussing on content curated to address current and future needs within health and care.
       </li>
       <li>
           <svg class="nhsuk-icon nhsuk-icon__tick" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" aria-hidden="true">
 <path stroke-width="4" stroke-linecap="round" d="M18.4 7.8l-8.5 8.4L5.6 12"></path>
-</svg> Highlight best practice with regard to software, IT operations, security, and open-source code
+        </svg><b>Self-Empowered:</b>Allow users to structure their learning according to their own personal needs and career goals. 
+</li>
+      <li>
+          <svg class="nhsuk-icon nhsuk-icon__tick" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" aria-hidden="true">
+<path stroke-width="4" stroke-linecap="round" d="M18.4 7.8l-8.5 8.4L5.6 12"></path>
+        </svg> <b>Inclusive:</b>Offer training on population health data and analytics for everyone across health and care irrespective of their job title. 
       </li>
       <li>
           <svg class="nhsuk-icon nhsuk-icon__tick" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" aria-hidden="true">
 <path stroke-width="4" stroke-linecap="round" d="M18.4 7.8l-8.5 8.4L5.6 12"></path>
-</svg> Open source and publish code to public GitHub repositories under appropriate licences alongside suitable open datasets or synthetic data so that our work can be further developed, re-used, and improved upon by everyone in the community
+        </svg> <b>Actionable:</b>Present subject matter in a way that integrates real-world application within the training programme itself.
       </li>
       <li>
           <svg class="nhsuk-icon nhsuk-icon__tick" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" aria-hidden="true">
 <path stroke-width="4" stroke-linecap="round" d="M18.4 7.8l-8.5 8.4L5.6 12"></path>
-</svg> Break down silos of expertise and improve technical communication and collaboration across the NHS, health and social care sectors
-      </li>
-      <li>
-          <svg class="nhsuk-icon nhsuk-icon__tick" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" aria-hidden="true">
-<path stroke-width="4" stroke-linecap="round" d="M18.4 7.8l-8.5 8.4L5.6 12"></path>
-</svg> Champion diversity, inclusion, and representation in tech by making SQL accessible to all members of the community regardless of background or current level of ability
+        </svg><b>Collaborative</b>Create a community of professionals that are involved in population health data and analytics to come together and share learning.
       </li>
   </ul>
 </div>
